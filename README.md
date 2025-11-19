@@ -9,7 +9,7 @@ Starting file processing (memory optimization)...
 
 Counting finished. Sorting top-30 words...
 
-Execution time (milliseconds): 10
+Execution time (milliseconds): 12
 
 Порівняння з попередніми версіями:
 ---
