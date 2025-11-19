@@ -1,4 +1,4 @@
-Output before memory optimization:
+Output after refactoring:
 ---
 Execution time (milliseconds): 14
 
